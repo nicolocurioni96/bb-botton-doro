@@ -1,6 +1,7 @@
 export const businessConfig = {
   // Identity
   name: "B&B Botton d'Oro",
+  category: "misc",
   tagline: "Esperienza e dedizione per i nostri clienti.",
   city: "Fuipiano Valle Imagna",
 
@@ -8,6 +9,7 @@ export const businessConfig = {
   address: "Via Pagafone, 1, 24030 Fuipiano Valle Imagna BG",
   phone: "+39 389 103 0096",
   email: "",
+  bookingUrl: "",
 
   // Online presence
   googleMapsUrl: "https://maps.google.com/?q=Via%20Pagafone%2C%201%2C%2024030%20Fuipiano%20Valle%20Imagna%20BG",
